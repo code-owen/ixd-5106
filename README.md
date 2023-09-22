@@ -6,5 +6,8 @@ A repo to store files for IXD-5106.
 ## Figma
 ![Figma Profile](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1281712545091450295)
 
+## Info
+Interaction design is at the intersection of user interface and user experience.
+
 
 
